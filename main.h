@@ -2,8 +2,8 @@
 // Created by Flavia Rivero on 4/12/24.
 //
 
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef PANEL_CONTROL_H
+#define PANEL_CONTROL
 
 
 
@@ -13,4 +13,4 @@ class main {
 
 
 
-#endif //MAIN_H
+#endif //PANEL_CONTROL
